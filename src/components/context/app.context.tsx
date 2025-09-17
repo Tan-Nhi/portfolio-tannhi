@@ -16,7 +16,7 @@ export const AppContextProvider = ({
 }) => {
   const [theme, setTheme] = useState<ThemeContextType>(() => {
     const initialTheme =
-      localStorage?.getItem("theme") as ThemeContextType;
+      (localStorage?.getItem("theme") ?? "dark") as ThemeContextType;
     return initialTheme;
   });
 
