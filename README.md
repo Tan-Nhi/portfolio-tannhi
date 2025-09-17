@@ -1,10 +1,10 @@
 # React TypeScript Portfolio
 
-# 👋 Xin chào, mình là Nguyễn Tấn Nhi
+### Xin chào, mình là Nguyễn Tấn Nhi
 
 - Đây là portfolio của mình, nơi tổng hợp các dự án cá nhân và demo thực tế.
 
-===
+### 
 
 Các bước cài đặt: (chế độ development)
 
