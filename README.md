@@ -1,10 +1,8 @@
-# React TypeScript Portfolio (TypeScript) FINAL PROJECT
+# React TypeScript Portfolio
 
-Đây là source code final cho series React TypeScript Portfolio (Vite).
+# 👋 Xin chào, mình là Nguyễn Tấn Nhi
 
-### Môi trường chạy dự án: Node.js v20.14.0
-
-https://nodejs.org/download/release/v20.14.0/
+- Đây là portfolio của mình, nơi tổng hợp các dự án cá nhân và demo thực tế.
 
 ===
 
