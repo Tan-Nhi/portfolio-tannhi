@@ -1,0 +1,54 @@
+{
+  "appHeader": {
+    "brand": "Tấn Nhi",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả",
+    "me": "Tôi là "
+  },
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️",
+    "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
+    "heading3": "Lĩnh vực quan tâm của tôi là",
+    "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+    "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "aboutPage": {
+    "title": "Tìm hiểu về tôi",
+    "greeting": "Xin chào mọi người, tôi là Tấn Nhi đến từ Cần Thơ, Việt Nam.",
+    "job": "Hiện tại tôi đang làm lập trình viên tự do, chủ yếu tham gia các dự án khởi nghiệp.",
+    "educationLine1": "Tôi đã hoàn thành chương trình Cử nhân ngành Công nghệ thông tin",
+    "educationLine2": "tại Cao đẳng FPT Polytechnic (FPOLY).",
+    "hobbyIntro": "Ngoài lập trình, tôi còn có một vài sở thích khác mà tôi rất yêu thích:",
+    "hobbies": {
+      "game": "Chơi game",
+      "tech": "Tìm hiểu công nghệ mới",
+      "travel": "Đi phượt bằng xe máy"
+    },
+    "quote": "\"Tôi không cần phải là người thông minh nhất, chỉ cần đủ kiên trì để đi đến cùng.\"",
+    "quoteAuthor": "--Albert Einstein",
+    "educationTitle": "Học vấn",
+    "degree": "Cử nhân Công nghệ thông tin",
+    "school": "Cao đẳng FPT Polytechnic (FPOLY)",
+    "findMe": "KẾT NỐI VỚI TÔI QUA",
+    "contactTitle": "Liên hệ với tôi"
+  },
+  "projectPage": {
+    "titleLine1": "",
+    "titleLine2": "Dự án Gần đây",
+    "description": "Một vài dự án tiêu biểu của tôi."
+  }
+}

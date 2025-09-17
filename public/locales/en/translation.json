@@ -1,0 +1,54 @@
+{
+  "appHeader": {
+    "brand": "Tan Nhi",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About",
+    "me": "I'M "
+  },
+  "heroSection": {
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️",
+    "heading2": "I am fluent in classics like",
+    "heading3": "My field of Interest's are building new",
+    "heading4": "Web Technologies and Products",
+    "heading5": "Whenever possible, I also apply my passion for developing products with"
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  },
+  "aboutPage": {
+    "title": "Know Who I'M",
+    "greeting": "Hi Everyone, I am Tan Nhi from Can Tho, VietNam.",
+    "job": "I am currently employed as a freelance dev (start-up).",
+    "educationLine1": "I have completed Bachelor's degree in information technology ",
+    "educationLine2": "at FPT Polytechnic College (FPOLY).",
+    "hobbyIntro": "Apart from coding, some other activities that I love to do!",
+    "hobbies": {
+      "game": "Playing Games",
+      "tech": "Learn new technology",
+      "travel": "Travel by motorbike"
+    },
+    "quote": "\"I’m not smarter than others — I just don’t give up as easily.\"",
+    "quoteAuthor": "--Albert Einstein",
+    "educationTitle": "Education",
+    "degree": "Bachelor of Information Technology",
+    "school": "FPT Polytechnic College (FPOLY)",
+    "findMe": "FIND ME ON",
+    "contactTitle": "Contact me"
+  },
+  "projectPage": {
+    "titleLine1": "My Recent",
+    "titleLine2": "Works",
+    "description": "Here are a few projects I've worked on recently."
+  }
+}
