@@ -1,24 +1,23 @@
-# React TypeScript Portfolio
+# 🌐 React TypeScript Portfolio - Nguyễn Tấn Nhi
 
-### Xin chào, mình là Tấn Nhi
+Xin chào 👋, mình là **Nguyễn Tấn Nhi**, Frontend Developer.  
+Đây là **portfolio cá nhân** của mình, nơi mình chia sẻ các dự án thực tế với **React, TypeScript** và nhiều công nghệ web khác.
 
-- Đây là portfolio của mình, nơi tổng hợp các dự án cá nhân và demo thực tế.
+🔗 **Demo Website**: [https://portfolio-tannhi.xyz](https://portfolio-tannhi.xyz)
 
-### 
+---
 
-Các bước cài đặt: (chế độ development)
+## 🚀 Công nghệ sử dụng
+- ⚛️ ReactJS, TypeScript
+- ⚡ Vite
+- 🎨 SCSS / Bootstrap
+- 🌐 Deploy trên Vercel
+- 
+---
 
-1. clone code
-2. cài đặt thư viện: npm i
-3. Update file .env.development (nếu cần thiết)
-4. Chạy dự án: npm run dev
+## 📂 Các bước cài đặt (Development)
 
-===
-
-Cách chạy tại chế độ production:
-
-1. clone code
-2. cài đặt thư viện: npm i
-3. Update file .env.production (nếu cần thiết)
-4. Build dự án: npm run build
-5. Chạy dự án: npm run preview
+1. Clone repo:
+   ```bash
+   git clone https://github.com/username/portfolio-tannhi.git
+   cd portfolio-tannhi
